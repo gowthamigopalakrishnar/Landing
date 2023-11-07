@@ -1,0 +1,21 @@
+
+  #myDIV {
+    height:50px;
+  }
+
+  #mymain {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+  }
+
+  .content {
+   
+    flex-wrap: wrap;
+  }
+  
+  
